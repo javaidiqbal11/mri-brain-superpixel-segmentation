@@ -12,7 +12,7 @@ Rather than relying solely on pixel-wise models, this approach:
 
 This method can improve segmentation accuracy and reduce computational complexity by working at a region level rather than individual pixels.
 
-✨ Application Domain: **Medical image analysis — Brain tumor segmentation**
+✨ Application Domain: **Medical image analysis — Brain tumor segmentation** <br> 
 📁 Modality: MRI (Magnetic Resonance Imaging) <br>
 📍 Primary Techniques: Superpixel segmentation + Machine Learning classification
 
